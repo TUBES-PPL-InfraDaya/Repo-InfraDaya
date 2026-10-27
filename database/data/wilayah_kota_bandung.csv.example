@@ -1,0 +1,29 @@
+kode_kecamatan,nama_kecamatan,kode_kelurahan,nama_kelurahan
+# CONTOH FORMAT: Silakan sediakan file database/data/wilayah_kota_bandung.csv sesuai format berikut:
+# 30 Kecamatan dan 151 Kelurahan di Kota Bandung
+32.73.01,Andir,32.73.01.1001,Campaka
+32.73.01,Andir,32.73.01.1002,Ciroyom
+32.73.01,Andir,32.73.01.1003,Dunguscariang
+32.73.01,Andir,32.73.01.1004,Garuda
+32.73.01,Andir,32.73.01.1005,Kebon Jeruk
+32.73.01,Andir,32.73.01.1006,Maleber
+32.73.02,Astana Anyar,32.73.02.1001,Cibadak
+32.73.02,Astana Anyar,32.73.02.1002,Karanganyar
+32.73.02,Astana Anyar,32.73.02.1003,Karasak
+32.73.02,Astana Anyar,32.73.02.1004,Nyengseret
+32.73.02,Astana Anyar,32.73.02.1005,Panjunan
+32.73.02,Astana Anyar,32.73.02.1006,Pelindung Hewan
+32.73.03,Antapani,32.73.03.1001,Antapani Kidul
+32.73.03,Antapani,32.73.03.1002,Antapani Kulon
+32.73.03,Antapani,32.73.03.1003,Antapani Tengah
+32.73.03,Antapani,32.73.03.1004,Antapani Wetan
+32.73.04,Arcamanik,32.73.04.1001,Cisaranten Bina Harapan
+32.73.04,Arcamanik,32.73.04.1002,Cisaranten Endah
+32.73.04,Arcamanik,32.73.04.1003,Cisaranten Kulon
+32.73.04,Arcamanik,32.73.04.1004,Sukamiskin
+32.73.05,Babakan Ciparay,32.73.05.1001,Babakan
+32.73.05,Babakan Ciparay,32.73.05.1002,Babakan Ciparay
+32.73.05,Babakan Ciparay,32.73.05.1003,Cirangrang
+32.73.05,Babakan Ciparay,32.73.05.1004,Margacinta
+32.73.05,Babakan Ciparay,32.73.05.1005,Margahayu Utara
+32.73.05,Babakan Ciparay,32.73.05.1006,Sukahaji
